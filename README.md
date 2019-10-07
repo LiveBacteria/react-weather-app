@@ -2,7 +2,7 @@
 A simple weather app but this time utilizes react and jasmine
 
 ## Features
-Jasmine - testing and validations
-React - Frontend UI
-Express - Backend server in Node
+* Jasmine - Testing and Validations
+* React - Frontend UI
+* Express - Backend server in Node
 
